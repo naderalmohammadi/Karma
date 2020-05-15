@@ -4,7 +4,7 @@
 $db_host = "localhost"; 
 $db_name = "karma"; 
 $db_user = "root";
-$db_pass = "1411";
+$db_pass = "";
 
 
 
